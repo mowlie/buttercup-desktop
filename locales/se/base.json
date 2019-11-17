@@ -1,26 +1,26 @@
 {
   "app-menu": {
     "app": {
-      "about": "About",
-      "check-for-updates": "Check for Updates...",
-      "services": "Services",
-      "hide": "Hide",
-      "hideothers": "Hide others",
-      "unhide": "Unhide",
-      "quit": "Quit"
+      "about": "Om",
+      "check-for-updates": "Sök efter uppdateringar...",
+      "services": "Tjänster",
+      "hide": "Dölj",
+      "hideothers": "Dölj andra",
+      "unhide": "Visa",
+      "quit": "Avsluta"
     },
     "archive": {
-      "archive": "Archive",
-      "file": "File",
-      "new": "New Archive",
-      "open": "Open Archive",
-      "search": "Search in Archive",
-      "connect-cloud-sources": "Connect Cloud Sources",
+      "archive": "Arkiv",
+      "file": "Fil",
+      "new": "Nytt arkiv",
+      "open": "Öppna arkiv",
+      "search": "Sök i arkiv",
+      "connect-cloud-sources": "Anslut molnkällor",
       "import": {
-        "import": "Import",
-        "import-from-type": "From {{name}} archive (.{{extension}})",
-        "import-to-type": "To {{name}}",
-        "no-available-archives": "No available archives to import to."
+        "import": "Importera",
+        "import-from-type": "Från {{name}} arkiv (.{{extension}})",
+        "import-to-type": "Till {{name}}",
+        "no-available-archives": "Inga tillgängliga arkiv att importera till."
       },
       "export": {
         "export": "Export",
